@@ -1,4 +1,4 @@
-package com.example.materialbutton
+package com.example.materialDesignComponents
 
 import org.junit.Test
 

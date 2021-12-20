@@ -1,4 +1,4 @@
-package com.example.materialbutton
+package com.example.materialDesignComponents
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
